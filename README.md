@@ -29,3 +29,11 @@ This repository contains the source code for a simple, responsive article postin
 
 ## Contact
 If you have any questions or feedback, feel free to reach out via the contact form on the website or directly via email: habibur@hrtechcity.com.
+
+## 🖼️ Screenshots
+- **Screenshot 01**
+![Desktop View](1.png)
+- **Screenshot 02**
+![Desktop View](2.png)
+- **Screenshot 03**
+![Desktop View](3.png)
